@@ -9,4 +9,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "appService.defaultWebAppToDeploy": "/subscriptions/94990f68-78c8-4dfa-9146-e58c2ff70bd6/resourceGroups/api-gis-bojonegoro-resource/providers/Microsoft.Web/sites/api-gis-bojonegoro",
 }
